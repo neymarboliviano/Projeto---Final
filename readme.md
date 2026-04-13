@@ -75,11 +75,9 @@ Criar um aplicativo/web que conecta estabelecimentos que possuem excedente de co
 ---
 
 ## ⚙️ Funcionalidades Principais
-- Cadastro de usuários (ONG / pessoa / restaurante)  
+- Cadastro de usuários (ONG/restaurante)  
 - Publicação de alimentos disponíveis  
-- Notificações em tempo real  
-- Geolocalização (mostrar opções próximas)  
-- Chat ou contato direto  
+- Notificações em tempo real    
 - Sistema de avaliação (confiança)  
 
 ---
@@ -96,25 +94,23 @@ Criar um aplicativo/web que conecta estabelecimentos que possuem excedente de co
 - Tela inicial (lista de alimentos)  
 - Tela de detalhes do alimento  
 - Tela de cadastro de doação  
-- Tela de confirmação de doação  
+- Tela de confirmação de doação
 
-*(Adicionar imagens dos wireframes aqui)*
-
+---
 
 ## 🎨 Protótipo
 
 Interface final do sistema.
 
-![Tela](./imagens/tela1.png)
+[PROTÓTIPO](https://www.figma.com/design/IDvVMpeGmjaWiWKusylmxm/Untitled?node-id=0-1&t=bKAwXRQmeenhtiNy-1)
 
 ---
 
-## 🔗 Acesse o Protótipo
-
-[Link do Figma](colocar_link_aqui)
-
 ## 🚀 Considerações Finais
 
-- O que você aprendeu  
-- Dificuldades  
-- Melhorias futuras 
+- O que você aprendeu
+- R = aprendi a como estruturar um projeto de forma formal, a como entender oque o usuário necessita, a entender como fazer o link da parte visual sem prejudicar o funcionamento
+- Dificuldades
+- R = dificuldade de pensar em uma ideia, dificuldades em adaptar oque foi planejado de uma forma que agregue todos os usuários
+- Melhorias futuras
+- R = a presença de um chat de comunicação entre o estabelecimento e as ONGs
