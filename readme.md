@@ -85,6 +85,10 @@ Criar um aplicativo/web que conecta estabelecimentos que possuem excedente de co
 ## 🔄 Fluxo do Usuário (simplificado)
 [FLUXO DO USUÁRIO](https://www.figma.com/board/uiGoFh1QQYP9z4TIe7efWv/Jornada-de-usu%C3%A1rio?node-id=0-1&t=tQZpkyZ9Ct5Hbkf7-1)
 
+## 🔄 Matriz CSD - FoodLoop (simplificado)
+
+![Matriz](./imagens/matriz.png)
+
 ---
 
 ## 🧩 Wireframes (ideia de telas)
