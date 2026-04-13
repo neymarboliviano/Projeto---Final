@@ -99,3 +99,22 @@ Criar um aplicativo/web que conecta estabelecimentos que possuem excedente de co
 - Tela de confirmação de doação  
 
 *(Adicionar imagens dos wireframes aqui)*
+
+
+## 🎨 Protótipo
+
+Interface final do sistema.
+
+![Tela](./imagens/tela1.png)
+
+---
+
+## 🔗 Acesse o Protótipo
+
+[Link do Figma](colocar_link_aqui)
+
+## 🚀 Considerações Finais
+
+- O que você aprendeu  
+- Dificuldades  
+- Melhorias futuras 
